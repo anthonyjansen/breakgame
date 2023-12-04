@@ -1,0 +1,21 @@
+body {
+    background-color: #080808;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  #game-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  canvas {
+    background: #000000;
+    border: 10px solid #ffd700;
+    border-radius: 10px; 
+  }
+  
